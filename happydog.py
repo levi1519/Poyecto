@@ -9,4 +9,6 @@ if dog == f:
 elif dog2 == t:
     print("perrito tiste : ")
 
+#arroz con pollo    
+
 
